@@ -1,0 +1,1320 @@
+temp,tempmax,precip,Conditions,label
+60,74,0.46,"Rain , Thunderstorm",Wet
+48,56,0.0, ,Mild
+45,58,0.0, ,Mild
+46,61,0.0, ,Mild
+50,58,0.0, ,Mild
+48,57,0.0, ,Mild
+53,60,0.0, ,Mild
+51,62,0.0, ,Mild
+50,64,0.0, ,Mild
+40,44,0.0, ,Mild
+46,55,0.0, ,Mild
+54,69,0.0, ,Mild
+44,55,0.0, ,Mild
+43,58,0.0, ,Mild
+57,71,0.0, ,Mild
+47,59,0.0, ,Mild
+29,36,0.0, ,Mild
+35,48,0.0, ,Mild
+47,53,0.16,Rain,Wet
+62,70,0.0,Fog,Mild
+65,72,0.1,Rain,Mild
+62,75,0.0, ,Mild
+57,67,0.01,Rain,Mild
+57,71,0.0, ,Mild
+57,76,0.0, ,Mild
+52,64,0.0, ,Mild
+56,72,0.0, ,Mild
+54,64,0.0, ,Mild
+54,70,0.0, ,Mild
+59,72,0.0, ,Mild
+64,82,0.0, ,Mild
+51,63,0.0, ,Mild
+54,70,0.0, ,Mild
+42,56,0.06,"Rain , Snow",Mild
+33,40,0.05, ,Mild
+48,70,0.0, ,Mild
+60,76,0.0, ,Mild
+47,60,0.02,Rain,Mild
+33,39,0.05,Rain,Mild
+38,49,0.0, ,Mild
+48,65,0.0, ,Mild
+68,80,0.0, ,Mild
+66,76,0.0,Rain,Mild
+45,55,0.02,Rain,Mild
+40,46,0.0, ,Mild
+53,64,0.15,Rain,Wet
+40,48,0.0, ,Mild
+29,32,0.0, ,Mild
+34,38,0.0, ,Mild
+51,65,0.0, ,Mild
+59,76,0.0,Fog,Mild
+48,60,0.0,Rain,Mild
+35,36,0.1,Rain,Mild
+45,57,0.0, ,Mild
+51,69,0.0, ,Mild
+67,86,0.0, ,Mild
+59,76,0.0, ,Mild
+68,76,0.0,Fog,Mild
+70,81,0.0, ,Mild
+69,82,0.0, ,Mild
+73,82,0.0, ,Mild
+70,83,0.0, ,Mild
+57,72,0.0, ,Mild
+63,77,0.0, ,Mild
+74,86,0.0, ,Mild
+66,76,0.0, ,Mild
+62,71,0.0,Rain,Mild
+44,52,0.11,Rain,Wet
+45,59,0.0, ,Mild
+62,80,0.0, ,Mild
+68,82,0.0,Fog,Mild
+51,73,0.08,Rain,Mild
+36,47,0.08,"Rain , Thunderstorm",Mild
+40,50,0.17,Rain,Wet
+46,53,0.0, ,Mild
+54,65,0.0, ,Mild
+53,67,0.0, ,Mild
+52,59,0.74,"Rain , Thunderstorm",Wet
+49,58,0.11,Rain,Wet
+61,71,0.01,Rain,Mild
+70,83,0.0, ,Mild
+60,70,0.0, ,Mild
+52,68,0.0, ,Mild
+62,75,0.0, ,Mild
+68,74,0.07,"Fog , Rain",Mild
+56,64,0.0, ,Mild
+55,68,0.0, ,Mild
+65,83,0.0, ,Mild
+62,72,0.0, ,Mild
+59,76,0.0, ,Mild
+67,80,0.0,Fog,Mild
+69,77,0.0, ,Mild
+54,61,0.0, ,Mild
+58,66,0.0, ,Mild
+57,69,0.0, ,Mild
+60,66,0.0,Rain,Mild
+72,82,0.01,Rain,Mild
+76,89,0.0,Thunderstorm,Mild
+64,77,0.0, ,Mild
+62,79,0.0, ,Mild
+73,85,0.0, ,Mild
+76,86,0.0, ,Mild
+76,82,0.0,Rain,Mild
+77,82,0.0, ,Mild
+64,74,0.0,Rain,Mild
+60,65,0.0, ,Mild
+57,61,0.2,"Rain , Thunderstorm",Wet
+62,72,0.27,"Rain , Thunderstorm",Wet
+64,77,0.0, ,Mild
+65,84,0.0, ,Mild
+72,87,0.0, ,Mild
+73,85,0.0, ,Mild
+75,85,0.0, ,Mild
+73,78,0.0, ,Mild
+58,73,1.34,"Fog , Rain , Thunderstorm",Wet
+52,65,0.0, ,Mild
+57,73,0.0, ,Mild
+62,67,0.06,Rain,Mild
+69,78,0.01,Rain,Mild
+66,78,0.0, ,Mild
+68,75,0.0, ,Mild
+74,84,0.01,"Rain , Thunderstorm",Mild
+75,87,0.0, ,Mild
+73,87,0.0, ,Mild
+78,88,0.0, ,Mild
+76,88,0.0, ,Mild
+77,86,0.0,Rain,Mild
+85,96,0.0, ,Hot
+80,93,0.0, ,Hot
+72,84,0.0, ,Mild
+66,75,0.0, ,Mild
+65,77,0.0, ,Mild
+70,83,0.0, ,Mild
+76,94,0.0, ,Mild
+76,91,0.0, ,Mild
+76,92,0.0, ,Mild
+76,87,0.0, ,Mild
+79,88,0.0, ,Mild
+79,84,0.06,Rain,Mild
+76,86,0.0,"Rain , Thunderstorm",Mild
+76,91,0.0, ,Mild
+83,93,0.0, ,Hot
+72,82,2.45,"Fog , Rain , Thunderstorm",Wet
+61,67,0.94,"Rain , Thunderstorm",Wet
+64,76,0.14,Rain,Wet
+65,84,0.0, ,Mild
+74,86,0.0, ,Mild
+73,86,0.0, ,Mild
+74,85,0.0, ,Mild
+76,86,0.0, ,Mild
+78,89,0.0, ,Mild
+80,89,0.0, ,Hot
+79,87,0.0, ,Mild
+78,84,0.19,"Fog , Rain",Wet
+78,86,0.0, ,Mild
+80,87,0.0,Thunderstorm,Hot
+70,75,1.56,"Rain , Thunderstorm",Wet
+68,73,1.75,"Fog , Rain , Thunderstorm",Wet
+76,84,0.0, ,Mild
+78,89,0.0, ,Mild
+81,94,0.0, ,Hot
+82,93,0.0, ,Hot
+80,88,0.0, ,Hot
+83,91,0.0, ,Hot
+83,90,0.0, ,Hot
+83,91,0.0, ,Hot
+83,91,0.0, ,Hot
+83,92,0.0, ,Hot
+83,92,0.0, ,Hot
+83,90,0.0,Rain,Hot
+77,86,0.55,"Rain , Thunderstorm",Wet
+78,92,0.0, ,Mild
+80,94,0.0, ,Hot
+80,92,1.49,"Rain , Thunderstorm",Wet
+79,89,0.0, ,Mild
+92,87,0.0, ,Hot
+83,91,0.0, ,Hot
+84,92,0.0, ,Hot
+84,92,0.0, ,Hot
+85,92,0.02,Rain,Hot
+84,91,0.01, ,Hot
+83,91,0.0, ,Hot
+84,92,0.0, ,Hot
+83,90,0.0, ,Hot
+78,88,0.27,"Rain , Thunderstorm",Wet
+84,93,0.24,"Fog , Rain , Thunderstorm",Wet
+80,89,0.49,"Fog , Rain , Thunderstorm",Wet
+80,88,0.01,Rain,Hot
+83,91,0.0, ,Hot
+86,93,0.0, ,Hot
+86,95,0.0, ,Hot
+87,96,0.0, ,Hot
+86,96,0.0, ,Hot
+85,97,0.0, ,Hot
+84,96,0.07,"Rain , Thunderstorm",Hot
+82,93,0.0,Thunderstorm,Hot
+82,94,0.0, ,Hot
+84,95,0.0, ,Hot
+85,96,0.0, ,Hot
+86,98,0.0, ,Hot
+85,98,0.0, ,Hot
+84,96,0.0, ,Hot
+83,95,0.0, ,Hot
+85,98,0.0, ,Hot
+87,100,0.0, ,Hot
+88,101,0.0, ,Hot
+83,92,0.06,"Rain , Thunderstorm",Hot
+84,95,0.31,"Rain , Thunderstorm",Wet
+82,89,3.53,"Fog , Rain , Thunderstorm",Wet
+75,78,1.52,"Rain , Thunderstorm",Wet
+78,86,0.0, ,Mild
+84,94,0.0, ,Hot
+87,96,0.0, ,Hot
+86,96,0.0, ,Hot
+86,97,0.0, ,Hot
+84,94,0.09,Rain,Hot
+86,96,0.0, ,Hot
+87,98,0.0, ,Hot
+87,98,0.0, ,Hot
+87,99,0.0, ,Hot
+87,97,0.0, ,Hot
+86,96,0.0, ,Hot
+87,97,0.0, ,Hot
+82,91,0.0, ,Hot
+79,90,0.0, ,Mild
+83,94,0.0, ,Hot
+83,94,0.0, ,Hot
+85,97,0.0, ,Hot
+88,99,0.0, ,Hot
+90,102,0.0, ,Hot
+89,102,0.0, ,Hot
+89,100,0.0, ,Hot
+89,101,0.0, ,Hot
+89,102,0.05,"Rain , Thunderstorm",Hot
+87,100,0.0, ,Hot
+83,97,0.0, ,Hot
+84,98,0.0, ,Hot
+88,101,0.0, ,Hot
+91,104,0.0, ,Hot
+90,101,0.0, ,Hot
+90,102,0.0, ,Hot
+87,96,0.0,Thunderstorm,Hot
+90,102,0.0, ,Hot
+92,103,0.0, ,Hot
+91,103,0.0, ,Hot
+88,101,0.0, ,Hot
+89,101,0.0, ,Hot
+89,101,0.0, ,Hot
+89,101,0.0,"Rain , Thunderstorm",Hot
+87,98,0.0, ,Hot
+88,99,0.0, ,Hot
+87,96,0.07,"Rain , Thunderstorm",Hot
+85,95,0.0, ,Hot
+87,99,0.0, ,Hot
+90,101,0.0, ,Hot
+88,98,0.01, ,Hot
+88,100,0.0, ,Hot
+86,99,0.98,"Fog , Rain , Thunderstorm",Wet
+87,97,0.02,Rain,Hot
+86,97,0.19,"Rain , Thunderstorm",Wet
+82,89,0.22,"Rain , Thunderstorm",Wet
+84,96,0.0, ,Hot
+86,97,0.0, ,Hot
+88,99,0.0, ,Hot
+89,99,0.0, ,Hot
+81,96,0.51,"Rain , Thunderstorm",Wet
+63,66,0.68,Rain,Wet
+71,77,0.0, ,Mild
+79,88,0.0, ,Mild
+84,94,0.02,"Rain , Thunderstorm",Hot
+83,91,0.35,"Rain , Thunderstorm",Wet
+81,90,3.66,"Fog , Rain , Thunderstorm",Wet
+80,86,0.13,Rain,Wet
+82,90,0.21,Rain,Wet
+81,90,0.0, ,Hot
+81,91,0.0, ,Hot
+76,85,0.0, ,Mild
+72,84,0.0, ,Mild
+73,83,0.0, ,Mild
+76,85,0.0, ,Mild
+74,80,0.0,Rain,Mild
+77,88,0.0, ,Mild
+78,89,0.0, ,Mild
+78,90,0.0, ,Mild
+84,92,0.0, ,Hot
+84,92,0.03,"Rain , Thunderstorm",Hot
+75,85,0.0,Thunderstorm,Mild
+70,80,0.0, ,Mild
+75,87,0.0, ,Mild
+81,89,0.0, ,Hot
+83,94,0.0, ,Hot
+82,90,0.0, ,Hot
+84,92,0.0,Rain,Hot
+84,92,0.0, ,Hot
+69,78,1.42,"Fog , Rain",Wet
+69,77,0.01,"Rain , Thunderstorm",Mild
+69,76,0.09,"Rain , Thunderstorm",Mild
+66,80,0.0, ,Mild
+72,88,0.0, ,Mild
+72,86,0.0, ,Mild
+74,87,0.0, ,Mild
+76,86,0.0, ,Mild
+74,82,0.0, ,Mild
+73,82,0.0, ,Mild
+71,83,0.0, ,Mild
+72,83,0.0,Rain,Mild
+75,83,0.0,Rain,Mild
+73,85,0.0, ,Mild
+75,88,0.0, ,Mild
+74,86,0.0, ,Mild
+74,86,0.0, ,Mild
+75,84,0.0, ,Mild
+73,81,0.0, ,Mild
+73,82,0.0,Rain,Mild
+66,76,0.3,Rain,Wet
+58,68,0.0, ,Mild
+62,75,0.0, ,Mild
+68,76,0.0, ,Mild
+67,75,0.56,Rain,Wet
+57,59,1.51,Rain,Wet
+59,63,0.04,Rain,Mild
+60,71,0.0, ,Mild
+62,75,0.0, ,Mild
+61,74,0.0, ,Mild
+63,76,0.0, ,Mild
+54,65,0.0, ,Mild
+44,51,0.0, ,Mild
+36,41,0.0, ,Mild
+38,45,0.0, ,Mild
+44,48,0.02,Rain,Mild
+42,50,0.01,"Fog , Rain",Mild
+42,53,0.0, ,Mild
+43,56,0.0, ,Mild
+51,69,0.0, ,Mild
+57,70,0.01,"Fog , Rain",Mild
+68,74,0.33,"Fog , Rain",Wet
+63,67,3.33,"Fog , Rain , Thunderstorm",Wet
+67,81,0.0, ,Mild
+53,66,0.0, ,Mild
+53,67,0.0, ,Mild
+60,77,0.0, ,Mild
+53,64,0.0, ,Mild
+57,72,0.0, ,Mild
+65,73,0.0, ,Mild
+72,79,0.0, ,Mild
+54,66,0.0, ,Mild
+45,50,0.0, ,Mild
+54,59,0.0, ,Mild
+62,66,0.06,Rain,Mild
+69,75,0.01,Rain,Mild
+62,69,0.0, ,Mild
+54,56,0.0, ,Mild
+58,67,0.0, ,Mild
+56,69,0.0, ,Mild
+57,66,0.02,Rain,Mild
+62,67,0.04,Rain,Mild
+65,71,0.0,Rain,Mild
+65,74,0.0, ,Mild
+68,74,0.07,Rain,Mild
+63,74,0.0, ,Mild
+55,63,0.0, ,Mild
+51,53,0.1,"Rain , Thunderstorm",Mild
+55,60,0.0, ,Mild
+53,57,0.59,"Rain , Thunderstorm",Wet
+52,54,0.0, ,Mild
+53,56,0.0, ,Mild
+67,77,0.0, ,Mild
+51,59,0.0,Rain,Mild
+46,57,0.0, ,Mild
+49,65,0.0, ,Mild
+64,74,0.01,Rain,Mild
+54,66,0.03,Rain,Mild
+40,47,0.13,Rain,Wet
+49,67,0.0, ,Mild
+43,46,0.0,Fog,Mild
+39,42,0.0, ,Mild
+37,40,0.63,"Rain , Thunderstorm",Wet
+41,43,0.2,"Rain , Thunderstorm",Wet
+51,62,0.76,"Rain , Thunderstorm",Wet
+43,51,0.0, ,Mild
+41,52,0.0, ,Mild
+54,71,0.0, ,Mild
+41,51,0.0, ,Mild
+30,36,0.0,Rain,Mild
+36,38,0.02,Rain,Mild
+34,36,0.3,"Rain , Thunderstorm",Wet
+42,49,0.17,Rain,Wet
+43,46,0.0,Fog,Mild
+39,42,0.0, ,Mild
+39,40,0.0, ,Mild
+49,59,0.0, ,Mild
+51,64,0.0, ,Mild
+54,69,0.0, ,Mild
+59,72,0.0, ,Mild
+56,75,0.0, ,Mild
+61,80,0.0, ,Mild
+53,56,0.16,Rain,Wet
+47,52,2.07,Rain,Wet
+45,51,0.4,Rain,Wet
+50,63,0.0, ,Mild
+57,73,0.0, ,Mild
+60,74,0.0, ,Mild
+67,83,0.0, ,Mild
+62,81,0.0, ,Mild
+66,79,0.0, ,Mild
+53,58,0.0,Rain,Mild
+56,62,0.31,Rain,Wet
+59,73,0.02,Rain,Mild
+41,49,0.0, ,Mild
+42,43,0.26,Rain,Wet
+49,55,0.06,Rain,Mild
+45,52,0.0, ,Mild
+49,60,0.0, ,Mild
+55,69,0.0, ,Mild
+68,78,0.0, ,Mild
+68,83,0.0, ,Mild
+64,81,0.0, ,Mild
+65,78,0.0, ,Mild
+53,62,0.0, ,Mild
+55,70,0.0, ,Mild
+63,78,0.0, ,Mild
+63,68,0.0, ,Mild
+51,66,0.01,Rain,Mild
+45,55,0.0, ,Mild
+49,66,0.0, ,Mild
+54,70,0.0, ,Mild
+65,75,0.0, ,Mild
+67,78,0.0, ,Mild
+47,56,0.02,Rain,Mild
+34,37,0.01,Rain,Mild
+34,37,0.0, ,Mild
+49,63,0.01,Rain,Mild
+43,52,0.0, ,Mild
+34,36,0.01,Rain,Mild
+34,36,0.1,Rain,Mild
+39,43,0.09,Rain,Mild
+42,45,0.02,Rain,Mild
+52,63,0.01,"Fog , Rain",Mild
+52,70,0.15,"Fog , Rain , Thunderstorm",Wet
+39,47,0.13,"Rain , Thunderstorm",Wet
+42,57,0.0, ,Mild
+49,60,0.0, ,Mild
+51,54,0.45,Rain,Wet
+52,55,2.17,Rain,Wet
+57,63,0.0, ,Mild
+57,59,0.0, ,Mild
+63,73,0.02,Rain,Mild
+66,78,0.0, ,Mild
+66,78,0.0, ,Mild
+60,69,0.0, ,Mild
+65,77,0.0, ,Mild
+70,77,0.01,Rain,Mild
+71,81,0.13,Rain,Wet
+73,83,0.0, ,Mild
+64,71,1.17,"Fog , Rain",Wet
+58,61,0.43,Rain,Wet
+68,78,0.0, ,Mild
+66,80,0.0, ,Mild
+71,83,0.0, ,Mild
+73,84,0.0, ,Mild
+62,70,0.05,Rain,Mild
+64,82,0.0, ,Mild
+66,84,0.0, ,Mild
+71,84,0.0, ,Mild
+72,80,0.0, ,Mild
+74,82,0.0, ,Mild
+76,83,0.0,Rain,Mild
+76,84,0.0, ,Mild
+76,86,0.0, ,Mild
+63,69,0.0, ,Mild
+64,69,0.02,Rain,Mild
+75,85,0.0, ,Mild
+78,87,0.0, ,Mild
+74,79,0.0, ,Mild
+79,87,0.0, ,Mild
+65,74,0.09,"Rain , Thunderstorm",Mild
+65,70,0.0,Rain,Mild
+75,82,0.01,Fog,Mild
+76,87,0.09,"Rain , Thunderstorm",Mild
+67,77,0.0, ,Mild
+69,83,0.0, ,Mild
+74,81,0.01,"Rain , Thunderstorm",Mild
+71,75,0.41,"Rain , Thunderstorm",Wet
+66,77,0.57,"Fog , Rain , Thunderstorm",Wet
+73,89,0.0,"Fog , Thunderstorm",Mild
+64,73,0.0, ,Mild
+66,81,0.0, ,Mild
+74,81,0.0, ,Mild
+77,85,0.0, ,Mild
+77,85,0.43,"Rain , Thunderstorm",Wet
+82,93,0.04,Thunderstorm,Hot
+78,86,0.08,"Rain , Thunderstorm",Mild
+74,85,0.56,"Rain , Thunderstorm",Wet
+59,65,0.0, ,Mild
+63,77,0.0, ,Mild
+67,83,0.0, ,Mild
+70,84,0.0, ,Mild
+71,83,0.0, ,Mild
+71,84,0.0, ,Mild
+75,84,0.0, ,Mild
+75,83,3.84,"Fog , Rain , Thunderstorm",Wet
+79,87,0.01,Rain,Mild
+78,83,0.02,Rain,Mild
+76,79,0.29,"Rain , Thunderstorm",Wet
+79,85,0.02,"Rain , Thunderstorm",Mild
+82,87,0.0, ,Hot
+74,79,0.4,"Rain , Thunderstorm",Wet
+67,69,0.23,Rain,Wet
+67,70,1.12,"Fog , Rain , Thunderstorm",Wet
+78,87,0.08,Rain,Mild
+72,77,0.36,"Rain , Thunderstorm",Wet
+77,87,0.0, ,Mild
+75,84,2.6,"Rain , Thunderstorm",Wet
+81,88,0.0,Rain,Hot
+82,89,0.0,Rain,Hot
+81,89,0.33,"Rain , Thunderstorm",Wet
+69,76,0.02,"Rain , Thunderstorm",Mild
+70,77,0.03,Rain,Mild
+77,87,1.41,"Fog , Rain , Thunderstorm",Wet
+73,82,0.76,Rain,Wet
+74,82,5.2,"Fog , Rain , Thunderstorm",Wet
+78,89,0.0,Thunderstorm,Mild
+76,85,0.0,"Rain , Thunderstorm",Mild
+78,87,0.2,"Rain , Thunderstorm",Wet
+77,89,0.67,"Rain , Thunderstorm",Wet
+79,88,0.0,"Rain , Thunderstorm",Mild
+77,86,0.0, ,Mild
+76,88,0.0, ,Mild
+79,90,0.0, ,Mild
+78,89,0.0, ,Mild
+78,88,0.0, ,Mild
+80,90,0.0, ,Hot
+80,90,0.0, ,Hot
+81,91,0.0, ,Hot
+82,93,0.0, ,Hot
+84,95,0.0, ,Hot
+83,93,0.0, ,Hot
+84,94,0.0, ,Hot
+84,93,0.01, ,Hot
+85,95,0.0, ,Hot
+79,86,1.34,"Fog , Rain , Thunderstorm",Wet
+82,89,0.19,"Rain , Thunderstorm",Wet
+78,83,1.34,"Fog , Rain , Thunderstorm",Wet
+81,89,2.66,"Fog , Rain , Thunderstorm",Wet
+82,90,0.0,Thunderstorm,Hot
+78,84,1.09,"Fog , Rain , Thunderstorm",Wet
+78,83,0.49,"Fog , Rain , Thunderstorm",Wet
+79,86,0.93,"Fog , Rain , Thunderstorm",Wet
+81,89,0.0, ,Hot
+84,92,0.0,Thunderstorm,Hot
+83,92,0.0, ,Hot
+83,93,0.0, ,Hot
+85,93,0.0, ,Hot
+83,91,0.01,"Rain , Thunderstorm",Hot
+82,91,0.08,"Rain , Thunderstorm",Hot
+84,93,0.0, ,Hot
+84,94,0.75,"Fog , Rain , Thunderstorm",Wet
+81,91,0.0,Rain,Hot
+81,91,0.0, ,Hot
+84,91,0.0, ,Hot
+84,92,0.0, ,Hot
+84,91,0.0, ,Hot
+84,91,0.0, ,Hot
+85,91,0.0, ,Hot
+85,91,0.0, ,Hot
+85,93,0.0, ,Hot
+84,94,0.0, ,Hot
+83,93,0.0, ,Hot
+84,94,0.0, ,Hot
+86,96,0.0, ,Hot
+86,97,0.0, ,Hot
+85,95,0.0, ,Hot
+85,95,0.0, ,Hot
+86,96,0.0, ,Hot
+88,98,0.0, ,Hot
+87,97,0.0, ,Hot
+86,97,0.0, ,Hot
+86,97,0.0, ,Hot
+87,97,0.0, ,Hot
+88,99,0.0, ,Hot
+88,99,0.0, ,Hot
+87,98,0.0, ,Hot
+87,98,0.0, ,Hot
+89,100,0.0, ,Hot
+89,100,0.0, ,Hot
+89,101,0.0, ,Hot
+88,101,0.0, ,Hot
+90,102,0.0, ,Hot
+86,99,0.0, ,Hot
+88,100,0.0, ,Hot
+87,99,0.0, ,Hot
+89,100,0.0, ,Hot
+90,101,0.0, ,Hot
+90,102,0.0, ,Hot
+89,101,0.0, ,Hot
+90,103,0.0, ,Hot
+89,103,0.0, ,Hot
+90,105,0.0, ,Hot
+90,105,0.0, ,Hot
+92,105,0.0, ,Hot
+91,104,0.0, ,Hot
+90,101,0.0, ,Hot
+89,98,0.0,Thunderstorm,Hot
+87,98,0.0, ,Hot
+86,98,0.0, ,Hot
+88,99,0.0, ,Hot
+89,99,0.0, ,Hot
+79,84,0.35,"Rain , Thunderstorm",Wet
+82,92,0.0,Rain,Hot
+87,99,0.0, ,Hot
+89,101,0.0, ,Hot
+89,101,0.0, ,Hot
+89,101,0.0, ,Hot
+86,98,0.0, ,Hot
+86,98,0.0, ,Hot
+85,98,0.0, ,Hot
+83,95,0.0, ,Hot
+86,96,0.0, ,Hot
+86,97,0.0, ,Hot
+84,94,0.0, ,Hot
+83,95,0.0, ,Hot
+84,94,0.0, ,Hot
+88,100,0.0, ,Hot
+90,101,0.01, ,Hot
+88,100,0.0, ,Hot
+88,100,0.0, ,Hot
+88,99,0.0, ,Hot
+84,93,1.05,"Rain , Thunderstorm",Wet
+84,96,0.79,"Fog , Rain , Thunderstorm",Wet
+84,93,0.0, ,Hot
+80,91,0.0, ,Hot
+77,91,0.0, ,Mild
+77,90,0.0, ,Mild
+84,95,0.0, ,Hot
+84,93,0.04,Rain,Hot
+86,96,0.0, ,Hot
+86,96,0.0, ,Hot
+85,96,0.0, ,Hot
+82,95,0.0, ,Hot
+84,95,0.0, ,Hot
+84,97,0.0, ,Hot
+81,94,0.0, ,Hot
+82,95,0.0, ,Hot
+84,96,0.0,"Rain , Thunderstorm",Hot
+82,95,0.0, ,Hot
+81,95,0.0, ,Hot
+79,89,0.0, ,Mild
+81,94,0.0, ,Hot
+83,95,0.0, ,Hot
+82,94,0.0, ,Hot
+78,89,0.0, ,Mild
+72,87,0.0, ,Mild
+73,87,0.0, ,Mild
+76,85,0.0, ,Mild
+77,90,0.0, ,Mild
+77,91,0.0, ,Mild
+80,91,0.0, ,Hot
+80,88,0.0, ,Hot
+79,90,0.0, ,Mild
+80,95,0.0, ,Hot
+86,99,0.0, ,Hot
+79,94,0.0, ,Mild
+78,96,0.0, ,Mild
+79,95,0.0, ,Mild
+76,90,0.0, ,Mild
+75,88,0.0, ,Mild
+71,84,0.0, ,Mild
+70,86,0.0, ,Mild
+73,87,0.0, ,Mild
+79,86,0.0,Rain,Mild
+76,82,0.16,Rain,Wet
+76,80,0.43,"Rain , Thunderstorm",Wet
+68,76,4.79,Rain,Wet
+61,64,0.65,Rain,Wet
+69,79,0.0, ,Mild
+71,84,0.0, ,Mild
+70,82,0.0, ,Mild
+66,81,0.0, ,Mild
+71,75,4.93,"Fog , Rain , Thunderstorm",Wet
+71,77,0.89,"Rain , Thunderstorm",Wet
+67,75,0.07,Rain,Mild
+68,79,0.0,Fog,Mild
+69,80,0.0,Fog,Mild
+70,78,0.0,Rain,Mild
+79,85,0.05,"Rain , Thunderstorm",Mild
+68,76,0.02,Rain,Mild
+60,63,0.53,"Fog , Rain",Wet
+62,71,0.0, ,Mild
+63,73,0.0, ,Mild
+67,74,0.0, ,Mild
+77,85,0.0, ,Mild
+64,71,0.0, ,Mild
+61,65,0.0, ,Mild
+60,65,0.01,Rain,Mild
+62,70,0.0, ,Mild
+70,75,0.01,Rain,Mild
+61,75,1.03,Rain,Wet
+58,72,0.0, ,Mild
+63,79,0.0, ,Mild
+65,77,0.0, ,Mild
+54,66,0.0, ,Mild
+47,59,0.0, ,Mild
+48,63,0.0, ,Mild
+56,64,0.0, ,Mild
+68,74,0.0,Rain,Mild
+71,74,0.26,Rain,Wet
+58,74,1.46,"Fog , Rain",Wet
+42,44,0.25,Rain,Wet
+45,47,0.04,Rain,Mild
+50,55,0.0, ,Mild
+53,59,0.0, ,Mild
+55,68,0.0,Fog,Mild
+52,63,0.0, ,Mild
+50,63,0.0, ,Mild
+51,65,0.0, ,Mild
+57,70,0.0, ,Mild
+57,69,0.0, ,Mild
+59,75,0.0, ,Mild
+62,76,0.0, ,Mild
+65,78,0.0, ,Mild
+66,79,0.0,Fog,Mild
+73,75,0.01,Rain,Mild
+60,74,1.54,Rain,Wet
+59,75,0.0, ,Mild
+64,75,0.0, ,Mild
+55,63,0.0, ,Mild
+54,68,0.0, ,Mild
+46,58,0.0, ,Mild
+51,66,0.0, ,Mild
+59,67,0.0,Rain,Mild
+65,76,0.0, ,Mild
+64,79,0.0, ,Mild
+67,81,0.0, ,Mild
+63,74,0.0, ,Mild
+61,70,0.0, ,Mild
+74,78,0.1,Rain,Mild
+55,73,1.32,"Rain , Thunderstorm",Wet
+41,46,0.0, ,Mild
+43,49,0.03,Rain,Mild
+49,57,0.0,Rain,Mild
+46,53,0.0, ,Mild
+46,48,0.0,Rain,Mild
+45,47,0.2,Rain,Wet
+52,62,0.0,Rain,Mild
+48,58,0.0, ,Mild
+46,56,0.0,Rain,Mild
+50,53,0.13,"Rain , Thunderstorm",Wet
+61,73,0.0,Fog,Mild
+55,66,0.0,Thunderstorm,Mild
+48,58,0.0, ,Mild
+42,50,0.0, ,Mild
+45,56,0.0, ,Mild
+50,66,0.0, ,Mild
+52,66,0.0, ,Mild
+59,70,0.0, ,Mild
+59,70,0.0, ,Mild
+54,64,0.0,Rain,Mild
+45,57,0.0, ,Mild
+48,59,0.0, ,Mild
+56,69,0.0, ,Mild
+51,57,0.0, ,Mild
+54,64,0.01,Rain,Mild
+46,54,0.0, ,Mild
+44,57,0.0, ,Mild
+53,70,0.0, ,Mild
+66,75,0.0, ,Mild
+51,58,0.0,Rain,Mild
+48,59,0.0, ,Mild
+52,71,0.0, ,Mild
+57,76,0.0, ,Mild
+62,77,0.0, ,Mild
+72,86,0.0, ,Mild
+66,77,0.0,Fog,Mild
+62,72,0.0, ,Mild
+49,58,0.0, ,Mild
+47,59,0.0, ,Mild
+48,62,0.0, ,Mild
+51,60,0.0,"Rain , Thunderstorm",Mild
+50,68,0.0, ,Mild
+56,65,0.0, ,Mild
+57,74,0.0, ,Mild
+56,74,0.0, ,Mild
+68,83,0.0, ,Mild
+63,79,0.0, ,Mild
+64,75,0.0, ,Mild
+66,75,0.0, ,Mild
+62,74,0.0, ,Mild
+63,82,0.0, ,Mild
+63,75,0.0, ,Mild
+67,79,0.0, ,Mild
+73,81,0.0, ,Mild
+71,76,0.0, ,Mild
+68,71,0.01,Rain,Mild
+65,72,0.0, ,Mild
+54,61,1.33,"Rain , Thunderstorm",Wet
+54,65,0.0, ,Mild
+54,69,0.0, ,Mild
+53,64,0.0, ,Mild
+58,73,0.0, ,Mild
+67,78,0.0, ,Mild
+70,77,0.0, ,Mild
+70,81,0.0, ,Mild
+64,78,0.0, ,Mild
+73,83,0.0, ,Mild
+61,76,0.0, ,Mild
+68,79,0.0, ,Mild
+68,77,0.0, ,Mild
+70,76,0.01,Rain,Mild
+76,83,0.22,"Rain , Thunderstorm",Wet
+65,71,2.18,"Rain , Thunderstorm",Wet
+61,64,0.4,Rain,Wet
+65,71,0.36,"Rain , Thunderstorm",Wet
+66,74,0.0,Rain,Mild
+71,85,0.0, ,Mild
+73,92,0.0, ,Mild
+80,92,0.0, ,Hot
+71,81,0.0, ,Mild
+73,79,0.02,Rain,Mild
+68,79,0.07,"Rain , Thunderstorm",Mild
+55,62,0.0, ,Mild
+53,64,0.0, ,Mild
+52,68,0.0, ,Mild
+62,78,0.0, ,Mild
+74,82,0.05, ,Mild
+59,70,0.15,"Rain , Thunderstorm",Wet
+57,73,0.0, ,Mild
+61,74,0.0, ,Mild
+65,74,0.0,Rain,Mild
+62,75,0.0, ,Mild
+64,69,0.02,Rain,Mild
+73,77,0.03,Rain,Mild
+76,86,0.0, ,Mild
+59,66,0.34,"Rain , Thunderstorm",Wet
+60,74,0.0, ,Mild
+62,79,0.0, ,Mild
+68,83,0.0, ,Mild
+68,82,0.0, ,Mild
+69,82,0.0, ,Mild
+67,85,0.0, ,Mild
+68,80,0.0, ,Mild
+68,77,0.02,"Rain , Thunderstorm",Mild
+72,79,0.0, ,Mild
+80,89,0.0, ,Hot
+68,73,1.19,"Rain , Thunderstorm",Wet
+65,72,0.4,Rain,Wet
+66,77,0.0,Fog,Mild
+67,79,0.0, ,Mild
+70,75,0.25,Rain,Wet
+71,78,1.34,"Fog , Rain , Thunderstorm",Wet
+69,75,1.13,"Rain , Thunderstorm",Wet
+72,81,0.0, ,Mild
+71,81,0.58,"Rain , Thunderstorm",Wet
+72,83,0.41,"Rain , Thunderstorm",Wet
+72,84,0.0, ,Mild
+69,83,0.0, ,Mild
+71,79,0.0, ,Mild
+79,88,0.0,Thunderstorm,Mild
+79,86,0.0, ,Mild
+76,90,0.54,"Rain , Thunderstorm",Wet
+75,87,0.0, ,Mild
+80,84,0.0,Rain,Hot
+76,86,0.92,"Fog , Rain , Thunderstorm",Wet
+72,78,0.0, ,Mild
+64,70,0.0,"Rain , Thunderstorm",Mild
+67,78,0.0, ,Mild
+71,87,0.0, ,Mild
+74,89,0.0, ,Mild
+71,86,0.0, ,Mild
+73,85,0.0, ,Mild
+70,73,0.11,Rain,Wet
+77,87,0.0, ,Mild
+79,91,0.27,"Rain , Thunderstorm",Wet
+76,87,0.33,"Rain , Thunderstorm",Wet
+76,84,0.11,"Rain , Thunderstorm",Wet
+79,87,0.0, ,Mild
+72,81,0.77,"Rain , Thunderstorm",Wet
+67,72,0.23,Rain,Wet
+74,80,0.26,Rain,Wet
+74,82,0.2,"Rain , Thunderstorm",Wet
+71,78,0.16,"Rain , Thunderstorm",Wet
+69,76,2.25,"Rain , Thunderstorm",Wet
+73,83,0.0, ,Mild
+77,83,0.0, ,Mild
+80,87,0.0, ,Hot
+78,85,0.01,Rain,Mild
+81,87,0.0, ,Hot
+82,86,0.0, ,Hot
+79,90,0.52,"Rain , Thunderstorm",Wet
+71,77,0.35,"Rain , Thunderstorm",Wet
+78,91,0.02,"Fog , Rain , Thunderstorm",Mild
+79,88,0.18,"Rain , Thunderstorm",Wet
+78,89,0.31,"Rain , Thunderstorm",Wet
+75,82,1.07,"Rain , Thunderstorm",Wet
+78,87,0.19,Rain,Wet
+76,84,0.36,"Rain , Thunderstorm",Wet
+75,85,1.61,"Rain , Thunderstorm",Wet
+77,86,0.1,Rain,Mild
+78,88,0.0, ,Mild
+80,90,0.0, ,Hot
+81,92,0.0, ,Hot
+81,92,0.0, ,Hot
+82,92,0.0, ,Hot
+80,91,0.0, ,Hot
+85,93,0.0, ,Hot
+86,94,0.0, ,Hot
+85,94,0.0, ,Hot
+86,94,0.0, ,Hot
+87,96,0.0, ,Hot
+86,96,0.0, ,Hot
+87,97,0.0, ,Hot
+86,96,0.0, ,Hot
+86,94,0.0, ,Hot
+85,95,0.0, ,Hot
+86,96,0.0, ,Hot
+86,96,0.0, ,Hot
+85,95,0.0, ,Hot
+84,93,0.0, ,Hot
+83,88,0.02,"Rain , Thunderstorm",Hot
+86,95,0.0, ,Hot
+86,96,0.0, ,Hot
+87,101,0.33,"Rain , Thunderstorm",Wet
+84,96,0.0, ,Hot
+85,94,0.0, ,Hot
+85,96,0.0, ,Hot
+87,98,0.0, ,Hot
+88,98,0.0, ,Hot
+90,99,0.0, ,Hot
+89,99,0.0, ,Hot
+90,100,0.0, ,Hot
+89,99,0.0, ,Hot
+90,100,0.0, ,Hot
+89,99,0.0, ,Hot
+87,97,0.04,"Rain , Thunderstorm",Hot
+90,100,0.0, ,Hot
+89,100,0.0, ,Hot
+91,101,0.0, ,Hot
+89,101,0.0, ,Hot
+90,101,0.0, ,Hot
+88,100,0.0, ,Hot
+88,99,0.0, ,Hot
+89,99,0.0, ,Hot
+89,100,0.0, ,Hot
+89,101,0.0, ,Hot
+89,101,0.0, ,Hot
+89,102,0.0, ,Hot
+90,101,0.0, ,Hot
+90,101,0.0, ,Hot
+89,102,0.76,"Rain , Thunderstorm",Wet
+84,93,0.08,"Rain , Thunderstorm",Hot
+83,92,1.06,"Fog , Rain , Thunderstorm",Wet
+86,97,0.0,Thunderstorm,Hot
+85,96,0.0, ,Hot
+87,97,0.0, ,Hot
+88,98,0.0, ,Hot
+87,99,0.0, ,Hot
+87,98,0.0, ,Hot
+88,99,0.0, ,Hot
+88,99,0.0, ,Hot
+89,100,0.0, ,Hot
+89,100,0.0, ,Hot
+89,100,0.0, ,Hot
+89,100,0.0, ,Hot
+91,102,0.0, ,Hot
+92,102,0.0, ,Hot
+90,102,0.0, ,Hot
+92,105,0.0, ,Hot
+87,96,0.1,"Rain , Thunderstorm",Hot
+78,84,0.92,"Rain , Thunderstorm",Wet
+74,76,2.35,Rain,Wet
+77,83,1.79,"Fog , Rain , Thunderstorm",Wet
+80,84,0.3,"Rain , Thunderstorm",Wet
+81,88,0.17,Rain,Wet
+84,93,0.06,Rain,Hot
+78,83,0.74,"Rain , Thunderstorm",Wet
+78,82,0.11,Rain,Wet
+83,91,0.04,Rain,Hot
+86,94,0.0, ,Hot
+85,93,0.0, ,Hot
+84,94,0.04, ,Hot
+84,93,0.0, ,Hot
+82,92,0.0, ,Hot
+83,92,0.16,Rain,Wet
+82,91,0.06,Rain,Hot
+83,92,0.0, ,Hot
+84,94,0.09,Rain,Hot
+86,96,0.0, ,Hot
+84,92,0.0, ,Hot
+83,92,0.0, ,Hot
+84,93,0.01,"Rain , Thunderstorm",Hot
+84,94,0.0,"Rain , Thunderstorm",Hot
+86,95,0.01,"Rain , Thunderstorm",Hot
+87,96,0.0, ,Hot
+86,95,0.0, ,Hot
+86,95,0.0, ,Hot
+82,93,0.05,Rain,Hot
+81,93,0.0, ,Hot
+82,93,0.0, ,Hot
+84,94,0.0,Rain,Hot
+84,92,0.0,Rain,Hot
+83,94,0.0, ,Hot
+85,95,0.0, ,Hot
+85,96,0.0, ,Hot
+87,98,0.0, ,Hot
+88,99,0.0, ,Hot
+87,99,0.0, ,Hot
+86,96,0.0, ,Hot
+82,94,0.0, ,Hot
+85,93,0.03,Rain,Hot
+87,97,0.01,"Rain , Thunderstorm",Hot
+79,88,0.76,"Fog , Rain , Thunderstorm",Wet
+70,73,1.22,Rain,Wet
+74,80,0.0, ,Mild
+77,89,0.0, ,Mild
+75,86,0.0, ,Mild
+72,83,0.0, ,Mild
+70,80,0.0, ,Mild
+72,85,0.0, ,Mild
+75,87,0.0, ,Mild
+81,91,0.0, ,Hot
+84,92,0.0, ,Hot
+84,92,0.0, ,Hot
+76,89,0.0,Rain,Mild
+74,86,0.0, ,Mild
+71,84,0.0, ,Mild
+68,84,0.0, ,Mild
+71,88,0.0, ,Mild
+76,91,0.0, ,Mild
+79,89,0.17,Rain,Wet
+77,87,0.0,"Fog , Rain",Mild
+81,91,0.0, ,Hot
+85,94,0.0, ,Hot
+84,94,0.0, ,Hot
+84,93,0.0, ,Hot
+84,92,0.0, ,Hot
+74,83,0.0, ,Mild
+65,77,0.0, ,Mild
+64,80,0.0, ,Mild
+70,84,0.0,"Rain , Thunderstorm",Mild
+77,86,0.0, ,Mild
+77,86,0.0, ,Mild
+76,87,0.0, ,Mild
+76,88,0.0, ,Mild
+74,86,0.0, ,Mild
+75,86,0.0, ,Mild
+76,87,0.0, ,Mild
+73,86,0.0,Fog,Mild
+81,91,0.33,"Rain , Thunderstorm",Wet
+81,88,0.01,Rain,Hot
+74,80,1.07,"Fog , Rain , Thunderstorm",Wet
+71,73,0.0, ,Mild
+68,72,0.24,Rain,Wet
+68,76,0.07,Rain,Mild
+66,71,0.08,Rain,Mild
+66,69,0.49,"Rain , Thunderstorm",Wet
+63,65,0.17,Rain,Wet
+64,71,0.0, ,Mild
+65,74,0.0,Rain,Mild
+67,77,0.0, ,Mild
+65,76,0.0, ,Mild
+69,82,0.0,Fog,Mild
+73,86,0.0, ,Mild
+71,86,0.0, ,Mild
+70,82,0.0, ,Mild
+66,79,0.0,Rain,Mild
+52,63,0.0, ,Mild
+51,67,0.0, ,Mild
+61,77,0.0, ,Mild
+69,76,0.49,"Rain , Thunderstorm",Wet
+62,73,0.13,Rain,Wet
+61,76,0.0, ,Mild
+61,66,0.03,Rain,Mild
+62,70,0.0, ,Mild
+66,76,0.0, ,Mild
+65,79,0.0, ,Mild
+64,79,0.0, ,Mild
+55,67,0.0, ,Mild
+53,69,0.0, ,Mild
+58,64,0.22,Rain,Wet
+51,52,1.29,Rain,Wet
+51,53,0.37,Rain,Wet
+50,52,0.63,Rain,Wet
+51,58,0.0,Fog,Mild
+48,56,0.0, ,Mild
+44,52,0.0, ,Mild
+40,46,0.0, ,Mild
+44,52,0.0, ,Mild
+59,67,0.02,"Fog , Rain",Mild
+57,67,0.0, ,Mild
+64,77,0.0, ,Mild
+50,57,0.0, ,Mild
+50,54,0.0, ,Mild
+59,67,0.0, ,Mild
+55,76,0.0, ,Mild
+32,37,0.0, ,Mild
+34,45,0.0, ,Mild
+47,59,0.0, ,Mild
+57,71,0.0, ,Mild
+59,68,0.0, ,Mild
+60,68,0.01,"Fog , Rain",Mild
+72,78,0.0, ,Mild
+74,80,0.0, ,Mild
+77,84,0.0,Rain,Mild
+69,76,0.0, ,Mild
+73,83,0.0, ,Mild
+60,70,0.0, ,Mild
+52,55,0.0, ,Mild
+64,77,0.0,Rain,Mild
+63,73,0.0,Fog,Mild
+64,73,0.4,"Rain , Thunderstorm",Wet
+60,75,0.0, ,Mild
+42,48,0.0, ,Mild
+49,62,0.0, ,Mild
+29,34,0.0, ,Mild
+32,44,0.0, ,Mild
+37,53,0.0, ,Mild
+57,71,0.0, ,Mild
+69,79,0.0, ,Mild
+70,80,0.0, ,Mild
+74,81,0.0, ,Mild
+67,78,0.65,"Fog , Rain",Wet
+52,56,0.07,Rain,Mild
+62,73,0.61,"Rain , Thunderstorm",Wet
+64,70,0.3,"Rain , Thunderstorm",Wet
+54,59,1.57,"Fog , Rain , Thunderstorm",Wet
+52,56,0.51,"Rain , Thunderstorm",Wet
+62,71,0.0,Rain,Mild
+62,76,0.0, ,Mild
+65,81,0.02,Fog,Mild
+62,70,0.0, ,Mild
+61,76,0.0, ,Mild
+67,84,0.0, ,Mild
+59,69,0.0, ,Mild
+50,59,0.0, ,Mild
+48,58,0.0, ,Mild
+50,61,0.0,Rain,Mild
+55,70,0.0, ,Mild
+63,79,0.0, ,Mild
+61,78,0.0, ,Mild
+67,82,0.0, ,Mild
+55,64,0.0, ,Mild
+49,53,0.0, ,Mild
+49,51,0.02,Rain,Mild
+62,72,0.0,Fog,Mild
+73,78,0.0,Rain,Mild
+71,86,0.0, ,Mild
+69,87,0.0, ,Mild
+56,68,0.0, ,Mild
+65,79,0.0, ,Mild
+76,86,0.0, ,Mild
+73,79,0.0, ,Mild
+71,78,0.0, ,Mild
+57,67,0.86,"Rain , Thunderstorm",Wet
+54,65,0.0, ,Mild
+55,70,0.0, ,Mild
+64,77,0.0, ,Mild
+74,86,0.0, ,Mild
+71,81,0.09,"Rain , Thunderstorm",Mild
+64,70,1.12,"Rain , Thunderstorm",Wet
+67,82,0.0, ,Mild
+69,87,0.0, ,Mild
+73,90,0.0, ,Mild
+67,80,0.0, ,Mild
+54,63,0.0, ,Mild
+57,72,0.0, ,Mild
+74,82,0.0, ,Mild
+75,80,0.0, ,Mild
+64,73,0.0, ,Mild
+58,66,0.0, ,Mild
+56,71,0.0, ,Mild
+57,59,0.66,Rain,Wet
+66,75,0.27,Rain,Wet
+76,84,0.0,Rain,Mild
+69,77,0.0, ,Mild
+68,76,0.0, ,Mild
+74,80,0.0,"Rain , Thunderstorm",Mild
+73,83,0.0, ,Mild
+64,66,0.73,Rain,Wet
+55,62,0.01,Rain,Mild
+58,70,0.01,Rain,Mild
+57,73,0.0, ,Mild
+62,75,0.0, ,Mild
+69,79,0.02, ,Mild
+74,83,0.0, ,Mild
+75,84,0.0, ,Mild
+75,85,0.0, ,Mild
+75,85,0.0, ,Mild
+74,85,0.0, ,Mild
+76,83,0.0, ,Mild
+75,85,0.0, ,Mild
+72,83,0.05,Rain,Mild
+69,84,0.0, ,Mild
+75,86,0.0, ,Mild
+78,86,0.0, ,Mild
+78,86,0.0, ,Mild
+72,84,0.73,"Rain , Thunderstorm",Wet
+68,82,0.0, ,Mild
+71,86,0.0, ,Mild
+71,76,0.0, ,Mild
+67,77,0.71,"Rain , Thunderstorm",Wet
+70,90,0.0, ,Mild
+75,89,0.0, ,Mild
+64,75,0.0, ,Mild
+64,79,0.0, ,Mild
+67,81,0.0, ,Mild
+69,82,0.0, ,Mild
+74,81,0.0, ,Mild
+76,80,0.1,Rain,Mild
+67,72,0.34,"Rain , Thunderstorm",Wet
+70,78,0.0, ,Mild
+75,82,0.0,Rain,Mild
+75,84,0.0, ,Mild
+76,84,0.0, ,Mild
+77,84,0.0, ,Mild
+72,80,0.0,"Rain , Thunderstorm",Mild
+72,82,0.0, ,Mild
+77,85,0.0,Rain,Mild
+79,88,0.0, ,Mild
+80,89,0.0, ,Hot
+65,73,0.01,Rain,Mild
+64,77,0.0, ,Mild
+65,82,0.0, ,Mild
+76,90,0.0, ,Mild
+77,91,0.0, ,Mild
+70,86,0.0, ,Mild
+83,95,0.0, ,Hot
+79,92,0.01,Thunderstorm,Mild
+65,78,0.05,"Rain , Thunderstorm",Mild
+71,91,0.0, ,Mild
+77,92,0.0, ,Mild
+80,95,0.0,Rain,Hot
+70,79,0.0, ,Mild
+71,86,0.0, ,Mild
+73,91,0.0, ,Mild
+75,88,0.0, ,Mild
+74,84,0.0, ,Mild
+71,76,0.04,"Rain , Thunderstorm",Mild
+77,83,0.0, ,Mild
+80,88,0.22,"Rain , Thunderstorm",Wet
+76,88,0.0,Thunderstorm,Mild
+74,89,0.0, ,Mild
+78,93,0.0, ,Mild
+80,92,0.0, ,Hot
+78,86,0.0, ,Mild
+80,90,0.12,Rain,Wet
+84,94,0.0, ,Hot
+85,95,0.0, ,Hot
+75,84,1.22,"Rain , Thunderstorm",Wet
+70,78,0.67,"Rain , Thunderstorm",Wet
+69,77,0.02,Rain,Mild
+72,86,0.07,"Rain , Thunderstorm",Mild
+72,87,0.0, ,Mild
+78,94,0.0, ,Mild
+84,92,0.0, ,Hot
+87,97,0.01,Rain,Hot
+80,94,0.47,"Rain , Thunderstorm",Wet
+78,88,0.0, ,Mild
+78,88,0.0, ,Mild
+77,85,0.02,Rain,Mild
+78,89,0.0, ,Mild
+83,92,0.0, ,Hot
+82,92,0.24,"Rain , Thunderstorm",Wet
+80,91,0.17,"Rain , Thunderstorm",Wet
+78,90,1.39,"Fog , Rain , Thunderstorm",Wet
+81,92,0.0, ,Hot
+83,95,0.0, ,Hot
+83,93,0.0, ,Hot
+82,90,0.0, ,Hot
+82,93,0.0, ,Hot
+83,93,0.0, ,Hot
+85,94,0.0,Rain,Hot
+87,98,0.0, ,Hot
+87,96,0.0, ,Hot
+88,99,0.0, ,Hot
+88,98,0.0, ,Hot
+89,101,0.0, ,Hot
+89,100,0.0, ,Hot
+84,92,0.01,"Rain , Thunderstorm",Hot
+87,98,0.0, ,Hot
+86,97,0.0, ,Hot
+88,99,0.0, ,Hot
+91,104,0.0, ,Hot
+79,85,0.14,Rain,Wet
+83,90,0.02,Rain,Hot
+82,91,1.07,"Rain , Thunderstorm",Wet
+81,91,0.01,Rain,Hot
+82,92,0.0, ,Hot
+87,99,0.0, ,Hot
+89,98,0.0, ,Hot
+89,98,0.0, ,Hot
+89,100,0.0, ,Hot
+88,99,0.0, ,Hot
+90,101,0.0, ,Hot
+89,99,0.0, ,Hot
+89,100,0.0,Thunderstorm,Hot
+87,99,0.02,"Rain , Thunderstorm",Hot
+88,100,0.0,Thunderstorm,Hot
+89,101,0.0, ,Hot
+88,100,0.0, ,Hot
+89,101,0.0, ,Hot
+89,101,0.0, ,Hot
+90,102,0.0, ,Hot
+89,101,0.0, ,Hot
+87,103,0.16,"Rain , Thunderstorm",Wet
+84,99,0.0, ,Hot
+88,98,0.0,"Rain , Thunderstorm",Hot
+88,100,0.0, ,Hot
+89,101,0.0, ,Hot
+90,103,0.0, ,Hot
+91,104,0.0, ,Hot
+90,103,0.0, ,Hot
+90,103,0.04,"Rain , Thunderstorm",Hot
+89,102,0.01,"Rain , Thunderstorm",Hot
+91,103,0.0, ,Hot
+91,103,0.0, ,Hot
+89,103,0.0, ,Hot
+91,105,0.0, ,Hot
+92,107,0.0, ,Hot
+93,106,0.0, ,Hot
+88,99,0.0, ,Hot
