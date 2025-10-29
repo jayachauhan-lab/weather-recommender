@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+﻿﻿#!/usr/bin/env python3
 # coding: utf-8
 """
 SupervisedWeatherModel.py
@@ -9,7 +9,7 @@ SupervisedWeatherModel.py
 - Model: RandomForestClassifier
 - Evaluation: Accuracy, F1-score, Confusion Matrix
 - Ranking Metrics: F1@3, MAP@3, MRR
-- Example Predictions: Randomly selected from test set
+- Example Predictions: Randomly selected from test set with commentary
 
 Usage:
   python SupervisedWeatherModel.py
@@ -113,7 +113,7 @@ def train_and_evaluate(X, y):
     return model, label_encoder, X_test, y_test
 
 # ----------------------
-# Example predictions
+# Example predictions with commentary
 # ----------------------
 def run_examples(model, scaler, label_encoder, X_test, y_test):
     print("\n=== Example Predictions (Randomized) ===")
@@ -126,9 +126,22 @@ def run_examples(model, scaler, label_encoder, X_test, y_test):
         probs = model.predict_proba(X_scaled)[0]
         top_k = np.argsort(probs)[-TOP_K:][::-1]
         labels = label_encoder.inverse_transform(top_k)
-        print(f"Example {i}: Input = {row[NUMERIC_COLUMNS].to_dict()}, True Label = {row[LABEL_COLUMN]}")
+        print(f"\nExample {i}:")
+        print(f"  Input = {row[NUMERIC_COLUMNS].to_dict()}")
+        print(f"  True Label = {row[LABEL_COLUMN]}")
         for rank, label in enumerate(labels, 1):
             print(f"  Rank {rank}: {label} (score = {probs[top_k[rank-1]]:.3f})")
+        # Commentary
+        if labels[0] == "Hot":
+            print("  → Commentary: High tempmax likely triggered 'Hot' classification.")
+        elif labels[0] == "Wet":
+            print("  → Commentary: Elevated precipitation suggests a 'Wet' day.")
+        elif labels[0] == "Cold":
+            print("  → Commentary: Low temp and tempmax with no rain match 'Cold' conditions.")
+        elif labels[0] == "Mild":
+            print("  → Commentary: Moderate temp and low precip suggest a 'Mild' classification.")
+        else:
+            print("  → Commentary: Prediction does not match expected rules.")
 
 # ----------------------
 # Main
